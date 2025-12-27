@@ -38,7 +38,7 @@ JavaScript – Audio control, playlist logic, shuffle/repeat, like functionality
 
 Clone the repository
 
-git clone https://github.com/Rollins09/Musicplayer.git
+git clone https://github.com/Rollins09/MusicPlayer.git
 
 
 Open index.html in your browser
